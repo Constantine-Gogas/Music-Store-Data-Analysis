@@ -3,6 +3,8 @@
 ## SQL project to analyze online music store data.
 
 This project teach how to analyze the music playlist database. 
+# Database:
+![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/Constantine-Gogas/Music-Store-Data-Analysis/assets/138850457/e76772af-fa90-40dc-aa44-0a036195d523)
 
 ## Questions:
 
@@ -42,5 +44,4 @@ This project teach how to analyze the music playlist database.
 ![Dashboard 1](https://github.com/Constantine-Gogas/Music-Store-Data-Analysis/assets/138850457/afc7e56f-513b-4a22-b852-d8c94af0c04c)
 #### Link: https://public.tableau.com/views/MusicStore-Playlist/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-# Database:
-![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/Constantine-Gogas/Music-Store-Data-Analysis/assets/138850457/e76772af-fa90-40dc-aa44-0a036195d523)
+
